@@ -1,0 +1,14 @@
+DP - 50
+trie -6
+bitmask - 10
+graph - 17
+
+heap - 11
+stack and queue -22
+backtracking - 16
+greedy - 26 
+
+ll - 10
+searching and sorting -16
+
+ 
